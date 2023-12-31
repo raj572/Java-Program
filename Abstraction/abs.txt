@@ -1,0 +1,9 @@
+abstract class fuction();
+
+
+
+class a exten b
+{
+    for i in range(25):
+        print(x)
+}

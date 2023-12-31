@@ -1,0 +1,14 @@
+ private string name;
+
+
+public void setter(String name){
+
+    this.name = name //setter
+
+}
+
+public String getter(){
+
+    return name //getter
+
+}
